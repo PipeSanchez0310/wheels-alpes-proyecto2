@@ -1,0 +1,13 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales de Oracle / IDEs
+*.log
+*.tmp
+*.bak
+*.dmp
+.idea/
+.vscode/
+*.swp
